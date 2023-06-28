@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "collpcm"]
 	path = collpcm
 	url = https://github.com/cran/collpcm
-	shallow = true
-	registered = true
 [submodule "SimVitD"]
 	path = SimVitD
 	url = https://github.com/cran/SimVitD
-	shallow = true
-	registered = true
